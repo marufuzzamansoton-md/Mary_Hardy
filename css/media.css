@@ -1,0 +1,161 @@
+/* Extra small Device */
+@media (max-width: 575.98px) {
+    .navbar-expand-lg {
+        padding: 15px 0;
+    }
+    .banner-text {
+        padding-top: 130px;
+        padding-bottom: 100px;
+    }
+    .banner-text h1 {
+        font-size: 60px;
+    }
+    .banner-text a {
+        padding: 12px 10px;
+    }
+    .banner-text .contact-btn {
+        background-color: transparent;
+        color: #FD6E0A;
+        padding: 12px 10px;
+    }
+    .banner-text a {
+        margin-right: 17px;
+    }
+    #about {
+        margin: 80px 0 50px 0;
+    }
+    .about-content {
+        padding: 50px 0;
+    }
+    .heading p {
+        padding: 0 15px;
+    }
+    .info {
+        padding-top: 20px;
+    }
+    #service .heading p {
+        padding: 0 30px;
+    }
+    .service-item {
+        margin-bottom: 30px;
+    }
+    #service {
+        padding-bottom: 30px;
+    }
+    #resume .heading {
+        padding-bottom: 50px;
+    }
+    #resume {
+        padding-bottom: 70px;
+    }
+    #contact {
+        padding: 40px 0;
+    }
+    .social {
+        padding-bottom: 30px;
+    }
+    .navbar-nav {
+        background-color: #FD6E0A;
+        padding:20px 0;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-left: 0;
+        color: #fff;
+    }
+    .navbar-expand-lg .navbar-nav .hire-me {
+        background-color: #fff;
+        color: #FD6E0A;
+        padding: 10px 20px;
+    }
+    .navbar-toggler:focus {
+        box-shadow:none;
+    }
+    .navbar-toggler {
+        border: none;
+    }
+}
+/* Small Device */
+@media (min-width: 576px) and (max-width: 767.99px) {
+    .navbar-expand-lg {
+        padding: 15px 0;
+    }
+
+    .banner-text {
+        padding-top: 130px;
+        padding-bottom: 100px;
+    }
+    .navbar-nav {
+        background-color: #FD6E0A;
+        padding: 20px 0;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-left: 0;
+        color: #fff;
+    }
+
+    .navbar-expand-lg .navbar-nav .hire-me {
+        background-color: #fff;
+        color: #FD6E0A;
+        padding: 10px 20px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-toggler {
+        border: none;
+    }
+    #about {
+        margin: 80px 0 50px 0;
+    }
+    .about-content {
+        padding: 50px 0;
+    }
+    .info {
+        padding-top: 20px;
+    }
+    #service .heading p {
+        padding: 0 25px;
+    }
+    .service-item p {
+        padding-right: 0px;
+    }
+    .service-item {
+        margin-bottom: 24px;
+    }
+    #service {
+        padding-bottom: 50px;
+    }
+    #resume .heading {
+        padding-bottom: 50px;
+    }
+    .edu-item h3 {
+        font-size: 22px;
+    }
+    .edu-item h4 {
+        font-size: 16px;
+    }
+    .edu-item p {
+        padding-right: 10px;
+    }
+    .edu-item {
+        border-bottom: 0;
+    }
+    .pt-30 {
+        padding-top: 10px;
+    }
+    #resume {
+        padding-bottom: 70px;
+    }
+    #contact {
+        padding: 50px 0;
+    }
+    #contact .heading {
+        padding-bottom: 30px;
+    }
+    .form {
+        padding-top: 0px;
+    }
+}

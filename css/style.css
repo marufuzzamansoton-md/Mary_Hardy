@@ -1,0 +1,269 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+ul,ol{
+    list-style-type: none;
+}
+
+/* Navbar Start */
+.navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    color:#474747;
+    margin-left: 73px;
+}
+.navbar-expand-lg .navbar-nav .hire-me {
+    background-color: #FD6E0A;
+    padding:18px 35px;
+    color: #fff;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.navbar-expand-lg {
+    padding:53px 0;
+}
+/* Navbar End */
+
+/* Banner Start */
+#banner {
+    background-color: #FFF8F3;
+}
+.banner-text {
+    padding-top: 321px;
+    padding-bottom: 194px;
+}
+.banner-text h3 {
+    font-size: 45px;
+    font-family: "Open Sans", sans-serif;
+    color: #474747;
+    font-weight: 600;
+    padding-bottom: 10px;
+}
+.banner-text h1 {
+    font-size: 85px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    color: #181818;
+}
+.banner-text p {
+    color: #757575;
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-top: 22px;
+    padding-bottom: 32px;
+}
+.banner-text a {
+    background-color: #FD6E0A;
+    padding: 19px 17px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #fff;
+    margin-right: 27px;
+    border-radius: 5px;
+    transition: all linear .3s;
+    border: 1px solid #FD6E0A;
+}
+.banner-text .contact-btn{
+    background-color: transparent;
+    color: #FD6E0A;
+    padding: 19px 24px;
+}
+.banner-text a:hover {
+    background-color: transparent;
+    color: #FD6E0A;
+    border: 1px solid #FD6E0A;
+}
+.banner-text .contact-btn:hover{
+    background-color: #FD6E0A;
+    color: #fff;
+}
+/* Banner end */
+
+/* about Start */
+#about {
+    margin:130px 0;
+}
+.about-bg {
+    background-color: #FFF8F3;
+}
+.about-content {
+    padding:130px 0;
+}
+.heading h2 {
+    color: #181818;
+    font-size: 35px;
+    font-weight: 700;
+    font-family: "Open Sans", sans-serif;
+}
+.heading p {
+    color: #757575;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    line-height: 30px;
+    padding:0 11px;
+}
+.info h4 {
+    font-size: 20px;
+    color: #757575;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    line-height: 30px;
+}
+.info h3 {
+    font-size: 20px;
+    color: #474747;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    line-height: 30px;
+}
+/* about Start */
+
+/* Service Start */
+#service {
+    padding-bottom: 130px;
+}
+#service .heading p {
+    padding:0 76px;
+}
+.services {
+    padding-top: 30px;
+}
+.service-item{
+    padding: 30px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0px 0px 30px rgba(242, 237, 237, 0.627)
+}
+.service-item img{
+    padding-bottom: 25px;
+}
+.service-item h3{
+    color: #181818;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    padding-bottom: 15px;
+}
+.service-item p{
+    color: #757575;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    padding-right: 57px;
+}
+/* Service End */
+
+/* Resume start */
+#resume {
+    padding-bottom: 113px;
+}
+#resume .heading {
+    padding-bottom: 113px;
+}
+.edu-item {
+    border-bottom: 1px solid #D1D1D1;
+    padding-bottom: 15px;
+}
+.edu-head h3 {
+    color: #474747;
+    font-family: "Open Sans", sans-serif;
+    font-size: 30px;
+    font-weight:bold;
+    padding-bottom: 20px;
+}
+.edu-item h3 {
+    color: #474747;
+    font-family: "Open Sans", sans-serif;
+    font-size: 25px;
+    font-weight:bold;
+    padding-bottom: 10px;
+}
+.edu-item h4 {
+    color: #757575;
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    font-weight:600;
+    padding-bottom: 15px;
+}
+.edu-item p {
+    color: #757575;
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    font-weight:400;
+    line-height: 28px;
+    padding-right: 175px;
+}
+.pt-30 {
+    padding-top: 30px;
+}
+.download-cv {
+    padding-top: 30px;
+}
+.download-cv a{
+    background-color: #FD6E0A;
+    color: #fff;
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    padding:18px 17px;
+    border-radius: 5px;
+}
+/* Resume End */
+
+/* Contact Start */
+#contact {
+    background-color: #FFF8F3;
+    padding:130px 0;
+}
+#contact .heading p{
+    font-size: 16px;
+    padding-right: 60px;
+    padding-bottom: 14px;
+}
+#contact .heading i {
+    color: #FD6E0A;
+    font-size: 24px;
+    margin-right: 24px;
+}
+.field input {
+    padding:18px 0 18px 30px;
+    border: 0;
+}
+.field textarea {
+    padding:18px 0 130px 30px;
+    border: 0;
+}
+.form {
+    padding-top: 20px;
+}
+.field input::placeholder {
+    color: #757575;
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+}
+.field {
+    padding-bottom: 24px;
+}
+.field  button{
+    background-color: #FD6E0A;
+    border: 0;
+    padding: 18px 39px;
+    border-radius: 5px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+}
+/* Contact End */
